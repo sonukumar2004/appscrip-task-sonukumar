@@ -1,0 +1,21 @@
+/* src/styles/global.css */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #fafafa;
+  color: #222;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}

@@ -1,0 +1,14 @@
+/* src/styles/home.css */
+
+.home-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.home-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 30px;
+}
